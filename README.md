@@ -19,6 +19,7 @@ An interactive browser-based game where users try to guess a randomly generated 
 ## 📸 Demo
 
 🔗 GitHub Repository: https://github.com/DiptiPriya-04/Guess-Number-
+
 🔗 Live Website: https://diptipriya-04.github.io/Guess-Number-/
 
 📂 Project Structure
